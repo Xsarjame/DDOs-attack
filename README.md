@@ -9,4 +9,6 @@ git clone https://github.com/Xsarjame/DDOs-attack
 
 cd DDOs-attack
 
-python GG-DDOS.py 
+chmod +x start.py 
+
+python start.py 
