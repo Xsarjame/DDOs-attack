@@ -7,5 +7,4 @@ ddos attack
 
 git clone https://github.com/Xsarjame/DDOs-attack
 
-
-![image](https://user-images.githubusercontent.com/96361084/148516448-44ad36d4-8a81-4dfb-9fb4-df762080ebb9.png)
+![image](https://user-images.githubusercontent.com/96361084/148517334-590f1d0e-7598-4911-a0f7-a3ea63367141.png)
