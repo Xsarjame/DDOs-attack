@@ -7,8 +7,6 @@ ddos attack
 
 git clone https://github.com/Xsarjame/DDOs-attack
 
-cd DDOs-attack
 
-chmod +x start.py 
 
-python start.py 
+![image](https://user-images.githubusercontent.com/96361084/148516359-99261a40-e833-495e-a3da-6f5ebf1bd7c1.png)
