@@ -9,4 +9,4 @@ git clone https://github.com/Xsarjame/DDOs-attack
 
 cd DDOs-attack
 
-python3 DDOS - PYTHON3.py
+python GG-DDOS.py 
